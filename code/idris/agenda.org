@@ -1,0 +1,9 @@
+#+LaTex CLASS: book
+
+#+REVEAL TRANS: none
+#+OPTIONS: ^:{}
+
+*This is a test
+** Or is it?
+*** I think not
+**** Or mabye I do
